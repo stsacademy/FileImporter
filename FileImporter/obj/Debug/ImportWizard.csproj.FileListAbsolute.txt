@@ -1,0 +1,107 @@
+D:\KST\C# Projects\STS_Project\STS_Project\bin\Debug\STS_Project.exe.config
+D:\KST\C# Projects\STS_Project\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+D:\KST\C# Projects\STS_Project\STS_Project\obj\Debug\STS_Project.Form1.resources
+D:\KST\C# Projects\STS_Project\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+D:\KST\C# Projects\STS_Project\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache
+D:\KST\C# Projects\STS_Project\STS_Project\bin\Debug\STS_Project.exe
+D:\KST\C# Projects\STS_Project\STS_Project\bin\Debug\STS_Project.pdb
+D:\KST\C# Projects\STS_Project\STS_Project\obj\Debug\STS_Project.exe
+D:\KST\C# Projects\STS_Project\STS_Project\obj\Debug\STS_Project.pdb
+D:\Visual Studio C#\STS_Project\STS_Project\bin\Debug\STS_Project.exe.config
+D:\Visual Studio C#\STS_Project\STS_Project\obj\Debug\STS_Project.exe
+D:\Visual Studio C#\STS_Project\STS_Project\obj\Debug\STS_Project.pdb
+D:\Visual Studio C#\STS_Project\STS_Project\bin\Debug\STS_Project.exe
+D:\Visual Studio C#\STS_Project\STS_Project\bin\Debug\STS_Project.pdb
+D:\Visual Studio C#\STS_Project\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+D:\Visual Studio C#\STS_Project\STS_Project\obj\Debug\STS_Project.Form1.resources
+D:\Visual Studio C#\STS_Project\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+D:\Visual Studio C#\STS_Project\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache
+C:\Users\plamen.dimitrov\Desktop\STS_Project\STS_Project\bin\Debug\STS_Project.exe.config
+C:\Users\plamen.dimitrov\Desktop\STS_Project\STS_Project\obj\Debug\STS_Project.exe
+C:\Users\plamen.dimitrov\Desktop\STS_Project\STS_Project\obj\Debug\STS_Project.pdb
+C:\Users\plamen.dimitrov\Desktop\STS_Project\STS_Project\bin\Debug\STS_Project.exe
+C:\Users\plamen.dimitrov\Desktop\STS_Project\STS_Project\bin\Debug\STS_Project.pdb
+C:\Users\plamen.dimitrov\Desktop\STS_Project\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+C:\Users\plamen.dimitrov\Desktop\STS_Project\STS_Project\obj\Debug\STS_Project.Form1.resources
+C:\Users\plamen.dimitrov\Desktop\STS_Project\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+C:\Users\plamen.dimitrov\Desktop\STS_Project\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache
+C:\Users\iliya.nedelchev\Desktop\STS_Project\STS_Project\STS_Project\bin\Debug\STS_Project.exe.config
+C:\Users\iliya.nedelchev\Desktop\STS_Project\STS_Project\STS_Project\obj\Debug\STS_Project.exe
+C:\Users\iliya.nedelchev\Desktop\STS_Project\STS_Project\STS_Project\obj\Debug\STS_Project.pdb
+C:\Users\iliya.nedelchev\Desktop\STS_Project\STS_Project\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+C:\Users\iliya.nedelchev\Desktop\STS_Project\STS_Project\STS_Project\obj\Debug\STS_Project.Form1.resources
+C:\Users\iliya.nedelchev\Desktop\STS_Project\STS_Project\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+C:\Users\iliya.nedelchev\Desktop\STS_Project\STS_Project\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache
+C:\Users\iliya.nedelchev\Desktop\STS_Project\STS_Project\STS_Project\bin\Debug\STS_Project.exe
+C:\Users\iliya.nedelchev\Desktop\STS_Project\STS_Project\STS_Project\bin\Debug\STS_Project.pdb
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project\STS_Project\bin\Debug\STS_Project.exe.config
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project\STS_Project\obj\Debug\STS_Project.exe
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project\STS_Project\obj\Debug\STS_Project.pdb
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project\STS_Project\bin\Debug\STS_Project.exe
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project\STS_Project\bin\Debug\STS_Project.pdb
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project\STS_Project\obj\Debug\STS_Project.Form1.resources
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe.config
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.exe
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.pdb
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.pdb
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Form1.resources
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+C:\Users\nikit_000\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache
+D:\KST\C# Projects\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe.config
+D:\KST\C# Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.exe
+D:\KST\C# Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.pdb
+D:\KST\C# Projects\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe
+D:\KST\C# Projects\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.pdb
+D:\KST\C# Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+D:\KST\C# Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Form1.resources
+D:\KST\C# Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+D:\KST\C# Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe.config
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.exe
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.pdb
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.pdb
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Form1.resources
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache
+C:\Users\sft.student8\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe.config
+C:\Users\sft.student8\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.exe
+C:\Users\sft.student8\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.pdb
+C:\Users\sft.student8\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe
+C:\Users\sft.student8\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.pdb
+C:\Users\sft.student8\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+C:\Users\sft.student8\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Form1.resources
+C:\Users\sft.student8\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+C:\Users\sft.student8\Documents\Visual Studio 2012\Projects\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.FileChoose.resources
+D:\nikolabintev\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.DelimiterChoose.resources
+D:\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe.config
+D:\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.exe
+D:\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.pdb
+D:\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.MainForm.resources
+D:\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+D:\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache
+D:\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe
+D:\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.pdb
+D:\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.DelimiterChooseMenu.resources
+D:\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.FileChooseMenu.resources
+D:\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.FinishMenu.resources
+D:\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe.config
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.exe
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.pdb
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.exe
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\STS_Project.pdb
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csprojResolveAssemblyReference.cache
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.DelimiterChooseMenu.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.FileChooseMenu.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.MainForm.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.FinishMenu.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.csproj.GenerateResource.Cache

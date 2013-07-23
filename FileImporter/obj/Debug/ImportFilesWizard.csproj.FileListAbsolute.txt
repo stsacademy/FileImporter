@@ -1,0 +1,41 @@
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\ImportFiles.pdb
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\ImportFilesWizard.csprojResolveAssemblyReference.cache
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\ImportFilesWizard.csproj.GenerateResource.Cache
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\Import wizard.exe.config
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\Import wizard.exe
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\Import wizard.pdb
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\ImportWizard.DelimiterChooseMenu.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\ImportWizard.FileChooseMenu.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\ImportWizard.MainForm.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\ImportWizard.Properties.Resources.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\ImportWizard.FinishMenu.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\Import wizard.exe
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\Import wizard.pdb
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\bin\Debug\Import wizard.exe.config
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\obj\Debug\Import wizard.exe
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\obj\Debug\Import wizard.pdb
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\bin\Debug\Import wizard.exe
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\bin\Debug\Import wizard.pdb
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\bin\Debug\ImportFiles.pdb
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\obj\Debug\ImportFilesWizard.csprojResolveAssemblyReference.cache
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\obj\Debug\ImportWizard.DelimiterChooseMenu.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\obj\Debug\ImportWizard.FileChooseMenu.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\obj\Debug\ImportWizard.MainForm.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\obj\Debug\ImportWizard.Properties.Resources.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\obj\Debug\ImportWizard.FinishMenu.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\obj\Debug\ImportFilesWizard.csproj.GenerateResource.Cache
+D:\Backup\From Data D\Nikola Bintev\ImportWizard\STS_Project\obj\Debug\ImportWizard.About.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\bin\Debug\Import wizard.exe.config
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\obj\Debug\Import wizard.exe
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\obj\Debug\Import wizard.pdb
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\bin\Debug\Import wizard.exe
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\bin\Debug\Import wizard.pdb
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\bin\Debug\ImportFiles.pdb
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\obj\Debug\ImportFilesWizard.csprojResolveAssemblyReference.cache
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\obj\Debug\ImportWizard.About.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\obj\Debug\ImportWizard.DelimiterChooseMenu.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\obj\Debug\ImportWizard.FileChooseMenu.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\obj\Debug\ImportWizard.MainForm.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\obj\Debug\ImportWizard.Properties.Resources.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\obj\Debug\ImportWizard.FinishMenu.resources
+D:\Backup\From Data D\Nikola Bintev\ImportWizard 1\STS_Project\obj\Debug\ImportFilesWizard.csproj.GenerateResource.Cache

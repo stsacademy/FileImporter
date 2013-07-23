@@ -1,0 +1,27 @@
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\FileImporter.csprojResolveAssemblyReference.cache
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.DelimiterChooseMenu.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.FileChooseMenu.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.MainForm.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.FinishMenu.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\FileImporter.csproj.GenerateResource.Cache
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\ImportFiles.pdb
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\Files import wizard.exe.config
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\Files import wizard.exe
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\bin\Debug\Files import wizard.pdb
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\STS_Project.Properties.Resources.resources
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\Files import wizard.exe
+D:\Backup\From Data D\file importer\STS_Project 11.04.2013\STS_Project\obj\Debug\Files import wizard.pdb
+C:\Users\sft.student5\Documents\Visual Studio 2012\Projects\FileImporter\FileImporter\bin\Debug\ImportFiles.pdb
+C:\Users\sft.student5\Documents\Visual Studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FileImporter.csprojResolveAssemblyReference.cache
+C:\Users\sft.student5\Documents\Visual Studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FileImporter.csproj.GenerateResource.Cache
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.About.resources
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.DelimiterChooseMenu.resources
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.FileChooseMenu.resources
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.MainForm.resources
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.Properties.Resources.resources
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.FinishMenu.resources
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.exe.config
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.exe
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.pdb
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.exe
+C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.pdb

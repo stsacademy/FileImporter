@@ -25,3 +25,6 @@ C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImp
 C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.pdb
 C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.exe
 C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.pdb
+D:\STS Tools\FileImporter\FileImporter\bin\Debug\FilesImporter.exe.config
+D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.exe
+D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.pdb

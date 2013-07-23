@@ -17,7 +17,7 @@ using ImportFiles;
 
 namespace FilesImporter
 {
-    // comment
+    // test comment
     public partial class MainForm : Form
     {
         private UserControl[] userControls;

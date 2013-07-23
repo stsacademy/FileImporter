@@ -17,7 +17,6 @@ using ImportFiles;
 
 namespace FilesImporter
 {
-    // test comment2
     public partial class MainForm : Form
     {
         private UserControl[] userControls;

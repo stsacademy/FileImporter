@@ -28,3 +28,14 @@ C:\Users\sft.student5\documents\visual studio 2012\Projects\FileImporter\FileImp
 D:\STS Tools\FileImporter\FileImporter\bin\Debug\FilesImporter.exe.config
 D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.exe
 D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.pdb
+D:\STS Tools\FileImporter\FileImporter\bin\Debug\FilesImporter.exe
+D:\STS Tools\FileImporter\FileImporter\bin\Debug\FilesImporter.pdb
+D:\STS Tools\FileImporter\FileImporter\bin\Debug\ImportFiles.pdb
+D:\STS Tools\FileImporter\FileImporter\obj\Debug\FileImporter.csprojResolveAssemblyReference.cache
+D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.About.resources
+D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.DelimiterChooseMenu.resources
+D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.FileChooseMenu.resources
+D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.MainForm.resources
+D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.Properties.Resources.resources
+D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.FinishMenu.resources
+D:\STS Tools\FileImporter\FileImporter\obj\Debug\FileImporter.csproj.GenerateResource.Cache

@@ -39,3 +39,17 @@ D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.MainForm.resource
 D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.Properties.Resources.resources
 D:\STS Tools\FileImporter\FileImporter\obj\Debug\FilesImporter.FinishMenu.resources
 D:\STS Tools\FileImporter\FileImporter\obj\Debug\FileImporter.csproj.GenerateResource.Cache
+D:\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.exe.config
+D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.exe
+D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.pdb
+D:\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.exe
+D:\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.pdb
+D:\Projects\FileImporter\FileImporter\bin\Debug\ImportFiles.pdb
+D:\Projects\FileImporter\FileImporter\obj\Debug\FileImporter.csprojResolveAssemblyReference.cache
+D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.About.resources
+D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.DelimiterChooseMenu.resources
+D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.FileChooseMenu.resources
+D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.MainForm.resources
+D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.Properties.Resources.resources
+D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.FinishMenu.resources
+D:\Projects\FileImporter\FileImporter\obj\Debug\FileImporter.csproj.GenerateResource.Cache

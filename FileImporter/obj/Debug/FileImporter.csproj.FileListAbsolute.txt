@@ -56,3 +56,14 @@ D:\Projects\FileImporter\FileImporter\obj\Debug\FileImporter.csproj.GenerateReso
 D:\NikolaBintev\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.exe.config
 D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.exe
 D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.pdb
+D:\NikolaBintev\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.exe
+D:\NikolaBintev\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.pdb
+D:\NikolaBintev\Projects\FileImporter\FileImporter\bin\Debug\ImportFiles.pdb
+D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FileImporter.csprojResolveAssemblyReference.cache
+D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.About.resources
+D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.DelimiterChooseMenu.resources
+D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.FileChooseMenu.resources
+D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.MainForm.resources
+D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.Properties.Resources.resources
+D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.FinishMenu.resources
+D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FileImporter.csproj.GenerateResource.Cache

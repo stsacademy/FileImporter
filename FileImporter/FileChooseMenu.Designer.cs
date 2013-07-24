@@ -185,8 +185,7 @@
             this.cmbMask.Items.AddRange(new object[] {
             "*.txt",
             "*.epf",
-            "*.*",
-            "*.rar"});
+            "*.*"});
             this.cmbMask.Location = new System.Drawing.Point(61, 142);
             this.cmbMask.Name = "cmbMask";
             this.cmbMask.Size = new System.Drawing.Size(53, 21);

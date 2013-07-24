@@ -53,3 +53,6 @@ D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.MainForm.resources
 D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.Properties.Resources.resources
 D:\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.FinishMenu.resources
 D:\Projects\FileImporter\FileImporter\obj\Debug\FileImporter.csproj.GenerateResource.Cache
+D:\NikolaBintev\Projects\FileImporter\FileImporter\bin\Debug\FilesImporter.exe.config
+D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.exe
+D:\NikolaBintev\Projects\FileImporter\FileImporter\obj\Debug\FilesImporter.pdb
